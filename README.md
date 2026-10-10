@@ -1,2 +1,2 @@
-# Calculator-C-
+# Calculator-Csharp
 Made using C sharp
